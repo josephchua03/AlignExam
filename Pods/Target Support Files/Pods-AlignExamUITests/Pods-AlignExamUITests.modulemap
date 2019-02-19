@@ -1,0 +1,6 @@
+framework module Pods_AlignExamUITests {
+  umbrella header "Pods-AlignExamUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

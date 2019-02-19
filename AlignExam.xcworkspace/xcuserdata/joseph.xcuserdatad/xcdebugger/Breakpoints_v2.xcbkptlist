@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlignExam/BookingListViewController/BookingListViewController.swift"
+            timestampString = "572196490.96924"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "logoutClick(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlignExam/ViewControllers/BookingDetailViewController/BookingDetailViewModel.swift"
+            timestampString = "572289945.146233"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "callAddOrUpdate(completion:serviceError:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AlignExam.BookingDetailViewModel.callAddOrUpdate(completion: () -&gt; (), serviceError: (Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "AlignExam"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joseph/Desktop/AlignExam/AlignExam/ViewControllers/BookingDetailViewController/BookingDetailViewModel.swift"
+                  timestampString = "572290918.687712"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "584">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Any) -&gt; () in AlignExam.BookingDetailViewModel.callAddOrUpdate(completion: () -&gt; (), serviceError: (Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "AlignExam"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joseph/Desktop/AlignExam/AlignExam/ViewControllers/BookingDetailViewController/BookingDetailViewModel.swift"
+                  timestampString = "572290918.691314"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "30">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlignExam/ViewControllers/BookingDetailViewController/BookingDetailDelegate.swift"
+            timestampString = "572291185.328817"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,57 @@
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "6DS-Yr-57Y"; */
+"6DS-Yr-57Y.placeholder" = "ยืนยันรหัสผ่าน";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "7Ia-4w-eSL"; */
+"7Ia-4w-eSL.normalTitle" = "สมัครสมาชิก";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password"; ObjectID = "7Xh-8X-IJz"; */
+"7Xh-8X-IJz.normalTitle" = "ลืมรหัสผ่าน";
+
+/* Class = "UITextField"; placeholder = "Date to"; ObjectID = "9nR-8j-MDE"; */
+"9nR-8j-MDE.placeholder" = "วันที่ไป";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "FLQ-5h-srV"; */
+"FLQ-5h-srV.placeholder" = "รหัสผ่านใหม่";
+
+/* Class = "UITextField"; placeholder = "Select seat"; ObjectID = "FzL-yl-QBB"; */
+"FzL-yl-QBB.placeholder" = "เลือกที่นั่ง";
+
+/* Class = "UIButton"; normalTitle = "Book New Seat"; ObjectID = "LtD-m9-Ehd"; */
+"LtD-m9-Ehd.normalTitle" = "จองที่นั่งใหม่";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "NB1-BN-9Ds"; */
+"NB1-BN-9Ds.placeholder" = "อีเมล์";
+
+/* Class = "UITextField"; placeholder = "Date from"; ObjectID = "NtS-Dy-tEv"; */
+"NtS-Dy-tEv.placeholder" = "วันที่จาก";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "Tzc-OK-nIA"; */
+"Tzc-OK-nIA.normalTitle" = "เข้าสู่ระบบ";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "UVR-UP-Src"; */
+"UVR-UP-Src.placeholder" = "รหัสผ่าน";
+
+/* Class = "UITextField"; placeholder = "Confirm New Password"; ObjectID = "V6R-DA-Rqn"; */
+"V6R-DA-Rqn.placeholder" = "ยืนยันรหัสผ่านใหม่";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password"; ObjectID = "WFX-S7-c2w"; */
+"WFX-S7-c2w.normalTitle" = "ลืมรหัสผ่าน";
+
+/* Class = "UIBarButtonItem"; title = "Logout"; ObjectID = "bN7-63-RFc"; */
+"bN7-63-RFc.title" = "ออกจากระบบ";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "e06-Qw-7d6"; */
+"e06-Qw-7d6.placeholder" = "รหัสผ่าน";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "haM-W3-gMF"; */
+"haM-W3-gMF.placeholder" = "อีเมล์";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "kag-jj-CLI"; */
+"kag-jj-CLI.normalTitle" = "สมัครสมาชิก";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "pAh-IX-BcO"; */
+"pAh-IX-BcO.title" = "หัวข้อ";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "yLd-pt-laL"; */
+"yLd-pt-laL.normalTitle" = "เพิ่มการจอง";
