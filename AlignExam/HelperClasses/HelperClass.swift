@@ -44,6 +44,14 @@ func getTokenHeader() -> HTTPHeaders{
     return headers
 }
 
+func clearAllToken(){
+    UserDefaults.standard.removeObject(forKey: GlobalConstants.EMAIL_KEY)
+    UserDefaults.standard.removeObject(forKey: GlobalConstants.TOKEN_KEY)
+    UserDefaults.standard.removeObject(forKey: GlobalConstants.USER_ID)
+    UserDefaults.standard.synchronize()
+    
+}
+
 //MARK: Loading Functions
 func showLoading(){
     SVProgressHUD.setDefaultMaskType(.black)

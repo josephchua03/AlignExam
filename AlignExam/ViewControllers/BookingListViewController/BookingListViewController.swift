@@ -41,6 +41,7 @@ class BookingListViewController: UIViewController {
     }
     
     @IBAction func logoutClick(_ sender: Any) {
+        clearAllToken()
         self.navigationController?.dismiss(animated: true, completion: nil)
     }
     @IBAction func addNewBooking(_ sender: Any) {
